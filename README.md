@@ -1,9 +1,9 @@
 # About The Project 
-I-m-in-the-State-of-Trance Text Animation
+I-m-in-the-State-of-Trance Text Animation.
 
 ![screencapture-padman83-github-io-I-m-in-the-State-of-Trance-2019-08-06-21_04_01](https://user-images.githubusercontent.com/45048950/63180676-5fad0700-c081-11e9-983f-67c76ef53cc5.png)
 
-### Inspired by DJ Armin Van Buuren.
+### Inspired by DJ Armin Van Buuren and Electronic Dance Music.
 ### Built With
 * [Materialize] (https://materializecss.com)
 * [jQuery] (https://https://jquery.com)
