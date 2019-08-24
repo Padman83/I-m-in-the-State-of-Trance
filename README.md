@@ -12,4 +12,4 @@ I-m-in-the-State-of-Trance Text Animation.
 
 ## Contact 
 
-Project Link: [https://github.com/Padman83/I-m-in-the-State-of-Trance] (https://github.com/Padman83/I-m-in-the-State-of-Trance)
+Project Link: [https://github.com/Padman83/I-m-in-the-State-of-Trance]
