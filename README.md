@@ -8,9 +8,9 @@ A text Animation is inspired by Trance Music Graphic Design.
 
 * Mac , Linux or Windows.
 
+### Code Editor
+
 * [Visual Studio Code] (https://code.visualstudio.com)
-
-
 
 ### Built With
 
