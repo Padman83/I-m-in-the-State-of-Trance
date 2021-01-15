@@ -4,11 +4,11 @@
 ### 🧰 System Requirements + 🛠️ Built With:
 
 * Cross-Platform.
-* [Visual Studio Code] (https://code.visualstudio.com)
-* [Materialize] (https://materializecss.com)
-* [jQuery] (https://https://jquery.com)
-* [cdnjs] (https://cdnjs.com)
-* [Google Fonts] (https://fonts.google.com)
+* (https://code.visualstudio.com)
+* (https://materializecss.com)
+* (https://https://jquery.com)
+* (https://cdnjs.com)
+* (https://fonts.google.com)
 
 
 
